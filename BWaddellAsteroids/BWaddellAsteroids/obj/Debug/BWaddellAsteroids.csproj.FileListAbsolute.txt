@@ -1,0 +1,11 @@
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\bin\Debug\BWaddellAsteroids.exe.config
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\obj\Debug\BWaddellAsteroids.csprojResolveAssemblyReference.cache
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\obj\Debug\BWaddellAsteroids.AsteroidForm.resources
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\obj\Debug\BWaddellAsteroids.Properties.Resources.resources
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\obj\Debug\BWaddellAsteroids.csproj.GenerateResource.Cache
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\bin\Debug\BWaddellAsteroids.exe
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\bin\Debug\BWaddellAsteroids.pdb
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\bin\Debug\GameInput.dll
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\obj\Debug\BWaddellAsteroids.exe
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\obj\Debug\BWaddellAsteroids.pdb
+C:\Users\Ben Waddell\Desktop\2800\Labs\BWaddellAsteroids\BWaddellAsteroids\bin\Debug\irrKlang.NET4.dll
